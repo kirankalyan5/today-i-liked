@@ -1,5 +1,7 @@
 # today-i-liked
-List of the repositories, blogs, articles...etc I liked
+List of the repositories, blogs, articles...etc I like on daily basics!
+
+[Extension I use](https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj) to create below commits.
 
 ### October 9, 2018 
 - [React Native’s LayoutAnimation is Awesome – Justin Poliachik – Medium](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e) 
