@@ -9,6 +9,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 - [Testing JavaScript with Kent C. Dodds](https://testingjavascript.com/) 
 - [Marge-bot for GitLab keeps master always green – Smarkets HQ](https://smarketshq.com/marge-bot-for-gitlab-keeps-master-always-green-6070e9d248df) 
  
+- [Picular](https://picular.co/) 
 ### October 10, 2018 
 - [trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
 ### October 9, 2018 
