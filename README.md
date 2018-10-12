@@ -4,6 +4,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 [Extension I use](https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj) to create below commits.
 
 
+
+### October 12, 2018 
+- [Testing JavaScript with Kent C. Dodds](https://testingjavascript.com/) 
 ### October 10, 2018 
 - [trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
 ### October 9, 2018 
