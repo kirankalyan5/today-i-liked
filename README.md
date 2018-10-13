@@ -5,6 +5,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 13, 2018 
+- [How to eliminate React performance issues now](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/) 
 ### October 12, 2018 
 - [Testing JavaScript with Kent C. Dodds](https://testingjavascript.com/) 
 - [Marge-bot for GitLab keeps master always green – Smarkets HQ](https://smarketshq.com/marge-bot-for-gitlab-keeps-master-always-green-6070e9d248df) 
