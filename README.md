@@ -6,6 +6,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 14, 2018 
+- [why-did-you-update: Puts your console on blast when React is making unnecessary updates.](https://github.com/garbles/why-did-you-update) 
 ### October 13, 2018 
 - [How to eliminate React performance issues now](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/) 
 - [Why I use NodeJS for basically everything I do. – Kieran Maher – Medium](https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc) 
