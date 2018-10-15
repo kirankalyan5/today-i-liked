@@ -10,6 +10,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 ### October 15, 2018 
 - [javascript-algorithms: 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
+- [Start Performance Budgeting – Addy Osmani – Medium](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3) 
 ### October 14, 2018 
 - [why-did-you-update: Puts your console on blast when React is making unnecessary updates.](https://github.com/garbles/why-did-you-update) 
 ### October 13, 2018 
