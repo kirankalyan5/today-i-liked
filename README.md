@@ -11,6 +11,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 ### October 16, 2018 
 - [Working with Babel 7 and Webpack | The Basement](https://www.thebasement.be/working-with-babel-7-and-webpack/) 
+- [Working with Babel 7 and Webpack | The Basement](https://www.thebasement.be/working-with-babel-7-and-webpack/) 
 ### October 15, 2018 
 - [javascript-algorithms: 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
 - [Start Performance Budgeting – Addy Osmani – Medium](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3) 
