@@ -15,6 +15,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 - [Profiling React Components with the User Timing API](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api) 
 - [Developers that constantly want to learn new things, here’s a tip!](https://codeburst.io/developers-that-constantly-want-to-learn-new-things-heres-a-tip-7a16e42302e4) 
 - [Learn how to create custom bash commands in less than 4 minutes](https://codeburst.io/learn-how-to-create-custom-bash-commands-in-less-than-4-minutes-6d4ceadd9590) 
+- [9 Best Website Layout Examples and Ideas for Web Design in 2018](https://codeburst.io/9-best-website-layout-examples-and-ideas-for-web-design-in-2018-514420fbc18c) 
 ### October 18, 2018 
 - [Evergreen UI](https://evergreen.segment.com/) 
 - [RN-flatlist-performance-tips: 📱Tips and tricks to improve your React Native FlatList performance and memory consumption](https://github.com/filipemerker/flatlist-performance-tips) 
