@@ -10,6 +10,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 20, 2018 
+- [Profiling React Components with the User Timing API](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api) 
 ### October 18, 2018 
 - [Evergreen UI](https://evergreen.segment.com/) 
 - [RN-flatlist-performance-tips: 📱Tips and tricks to improve your React Native FlatList performance and memory consumption](https://github.com/filipemerker/flatlist-performance-tips) 
