@@ -11,6 +11,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 21, 2018 
+- [What Is Clean Code? – Member Feature Stories – Medium](https://medium.com/s/story/reflections-on-clean-code-8c9b683277ca) 
 ### October 20, 2018 
 - [Profiling React Components with the User Timing API](https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api) 
 - [Developers that constantly want to learn new things, here’s a tip!](https://codeburst.io/developers-that-constantly-want-to-learn-new-things-heres-a-tip-7a16e42302e4) 
