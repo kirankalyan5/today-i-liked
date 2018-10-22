@@ -15,6 +15,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 ### October 22, 2018 
 - [Ditching setState for MobX – React Native Training – Medium](https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578) 
+- [Create a Pull Request on GitHub | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) 
 ### October 21, 2018 
 - [What Is Clean Code? – Member Feature Stories – Medium](https://medium.com/s/story/reflections-on-clean-code-8c9b683277ca) 
 ### October 20, 2018 
