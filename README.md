@@ -13,6 +13,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 23, 2018 
+- [📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts) 
 ### October 22, 2018 
 - [Ditching setState for MobX – React Native Training – Medium](https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578) 
 - [Create a Pull Request on GitHub | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) 
