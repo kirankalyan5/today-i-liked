@@ -14,6 +14,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### October 25, 2018 
+- [Supercharge your Terminal with Zsh – Callstack Engineers](https://blog.callstack.io/supercharge-your-terminal-with-zsh-8b369d689770) 
 ### October 23, 2018 
 - [📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts) 
 - [33 Fundamentals Every JavaScript Developer Should Know](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) 
