@@ -19,6 +19,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 ### November 28, 2018 
 - [Malicious code found in npm package event-stream downloaded 8 million times in the past 2.5 months | Snyk](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream?utm_content=bufferbf031&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Snyk CLI | Snyk](https://snyk.io/docs/using-snyk) 
+- [Cross-cutting functionality in React using Higher-Order Components, Render Props and Hooks | pawelgrzybek.com](https://pawelgrzybek.com/cross-cutting-functionality-in-react-using-higher-order-components-render-props-and-hooks/) 
 ### October 25, 2018 
 - [Supercharge your Terminal with Zsh – Callstack Engineers](https://blog.callstack.io/supercharge-your-terminal-with-zsh-8b369d689770) 
 ### October 23, 2018 
