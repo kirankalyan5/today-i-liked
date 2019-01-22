@@ -20,6 +20,7 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 ### January 22, 2019 
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#23.26.80.82--.) 
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#23.26.80.82--.) 
+- [JavaScript: How far we’ve come – Achievers Tech – Medium](https://medium.com/achievers-tech/javascript-how-far-weve-come-bb92ef0898fe) 
 ### November 28, 2018 
 - [Malicious code found in npm package event-stream downloaded 8 million times in the past 2.5 months | Snyk](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream?utm_content=bufferbf031&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) 
 - [Snyk CLI | Snyk](https://snyk.io/docs/using-snyk) 
