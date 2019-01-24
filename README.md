@@ -17,6 +17,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### January 24, 2019 
+- [Learn Build & Task Automation · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/learning/build.html) 
 ### January 22, 2019 
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#23.26.80.82--.) 
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#23.26.80.82--.) 
