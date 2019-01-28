@@ -18,6 +18,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### January 28, 2019 
+- [myshov/awesome-mobile-web-development: All that you need to create a great mobile web experience](https://github.com/myshov/awesome-mobile-web-development) 
 ### January 24, 2019 
 - [Learn Build & Task Automation · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/learning/build.html) 
 ### January 22, 2019 
