@@ -19,6 +19,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### February 5, 2019 
+- [SaraVieira/awesome-talks: Awesome Talks Curated By the Community](https://github.com/SaraVieira/awesome-talks) 
 ### January 28, 2019 
 - [myshov/awesome-mobile-web-development: All that you need to create a great mobile web experience](https://github.com/myshov/awesome-mobile-web-development) 
 - [standard/standard: 🌟 JavaScript Style Guide, with linter & automatic code fixer](https://github.com/standard/standard) 
