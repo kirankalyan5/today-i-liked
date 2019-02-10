@@ -21,6 +21,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### February 10, 2019 
+- [kirankalyan5/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/kirankalyan5/react-redux-links) 
 ### February 9, 2019 
 - [trimstray/nginx-quick-reference: This notes describes how to improve Nginx performance, security and other important things.](https://github.com/trimstray/nginx-quick-reference) 
 ### February 5, 2019 
