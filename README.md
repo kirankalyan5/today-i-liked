@@ -28,6 +28,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### March 18, 2019 
+- [labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) 
 ### March 15, 2019 
 - [Micro Frontends by Elisabeth Engel | ZEEF](https://micro-frontends.zeef.com/elisabeth.engel?ref=elisabeth.engel&share=ee53d51a914b4951ae5c94ece97642fc) 
 - [dielduarte/awesome-microfronts: A curated list about Micro Fronts architecture and its implementations.](https://github.com/dielduarte/awesome-microfronts) 
