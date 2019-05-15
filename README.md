@@ -29,6 +29,9 @@ List of the repositories, blogs, articles...etc I like on daily basics!
 
 
 
+
+### May 15, 2019 
+- [hex13/javascript-visual-explanations: Javascript Visual Explanations - concepts from JS/frontend ecosystem explained visually (pictures, diagrams, animations etc.)](https://github.com/hex13/javascript-visual-explanations) 
 ### March 18, 2019 
 - [labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript) 
 ### March 15, 2019 
